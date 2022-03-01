@@ -1,0 +1,13 @@
+id: P61D24912
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 7,00: Conclusion'
+  language: bo
+  volumes:
+    a3477c9f54884907ba6eedfac45d1052:
+      title: Conclusion
+      base_file: Conclusion.txt
+      work_id: W3A65841B
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:58:53.350322'
+last_modified_at: '2022-03-01T22:58:53.350328'
